@@ -102,7 +102,7 @@ Feel free to fork the repository, improve visuals, or suggest ideas!
       </a>
     </td>
     <td>
-      <a href="mailto:sivanilla28@gmail.com">
+      <a href="mailto:sivanilla526@gmail.com">
         <img src="https://img.shields.io/badge/EMAIL-SIVANILLA28%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
     </td>
